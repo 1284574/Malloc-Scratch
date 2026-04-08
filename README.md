@@ -15,6 +15,7 @@ brk() — to shrink/reset the heap
 
 This project is designed to help understand low-level memory management and how dynamic allocation works under the hood in Unix-like systems.
 
-🛠️ Compilation & Run
+🛠️ Compilation & Run:
+
 gcc -o custom_malloc main.c
 ./custom_malloc
